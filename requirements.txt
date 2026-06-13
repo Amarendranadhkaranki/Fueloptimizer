@@ -1,0 +1,8 @@
+Django>=5.0,<5.2
+djangorestframework>=3.15
+requests>=2.31
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+geopy>=2.4
+polyline>=2.0
