@@ -22,3 +22,4 @@ class FuelStation(models.Model):
 
     def __str__(self) -> str:
         return f"{self.name} ({self.city}, {self.state}) ${self.retail_price:.3f}"
+ 
